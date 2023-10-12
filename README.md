@@ -6,7 +6,7 @@
     <a href="https://github.com/mattiasghodsian/gitlab-time-reporter/stargazers" target="_new"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mattiasghodsian/gitlab-time-reporter?style=for-the-badge&logo=github&label=Stars&color=blue"></a>
     <a href="https://github.com/mattiasghodsian/gitlab-time-reporter/network/members" target="_new"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mattiasghodsian/gitlab-time-reporter?style=for-the-badge&logo=github&label=Forks&color=blue"></a>
     <a href="https://github.com/mattiasghodsian/gitlab-time-reporter/releases/latest" target="_new"><img alt="Latest Release" src="https://img.shields.io/github/v/release/mattiasghodsian/gitlab-time-reporter?style=for-the-badge&logo=github&label=Latest%20Release&color=blue"></a>
-    <p>Create a time report for issues in all group repositories within self-hosted GitLab. </p>
+    <p>Create a time report for issues in a group containing repositories within self-hosted GitLab. </p>
 </center>
 
 ## How to
