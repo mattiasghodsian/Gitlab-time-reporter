@@ -1,0 +1,28 @@
+{
+  "name": "gitlab-time-reporter",
+  "version": "1.0.0",
+  "description": "Create a time report for issues in all group repositories within self-hosted GitLab.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattiasghodsian/gitlab-time-reporter"
+  },
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gitlab",
+    "time spent",
+    "time",
+    "report"
+  ],
+  "author": "Mattias Ghodsian",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "commander": "^7.2.0",
+    "dotenv": "^16.3.1",
+    "exceljs": "^4.3.0"
+  }
+}
