@@ -1,7 +1,7 @@
 {
   "name": "gitlab-time-reporter",
   "version": "1.0.0",
-  "description": "Create a time report for issues in all group repositories within self-hosted GitLab.",
+  "description": ">Create a time report for issues in a group containing repositories within self-hosted GitLab.",
   "repository": {
     "type": "git",
     "url": "https://github.com/mattiasghodsian/gitlab-time-reporter"
